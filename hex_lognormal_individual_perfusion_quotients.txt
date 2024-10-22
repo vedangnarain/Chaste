@@ -1,0 +1,6 @@
+TestHexagonalNetwork/ PriesHaematocrit 10 1 0 0.981912 
+TestHexagonalNetwork/ PriesHaematocrit 10 2 0 0.981912 
+TestHexagonalNetwork/ PriesHaematocrit 10 3 0 0.981912 
+TestHexagonalNetwork/ MemoryHaematocrit 10 1 0 0.96124 
+TestHexagonalNetwork/ MemoryHaematocrit 10 2 0 0.96124 
+TestHexagonalNetwork/ MemoryHaematocrit 10 3 0 0.96124 
